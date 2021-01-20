@@ -1,4 +1,4 @@
-name: Gradle Continious Integeration
+name: Run and Build Test
 
 on:
   push:
