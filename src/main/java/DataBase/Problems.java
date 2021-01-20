@@ -365,7 +365,8 @@ public class Problems {
 
   public static final String p86 = "```Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.```";
 
-  public static final String p87 = "```unavailable```";
+  public static final String p87 = "```A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation. For example, [2, 1, 0] represents the permutation where elements at the index 0 and 2 are swapped.\n\n"+
+                                   "Given an array and a permutation, apply the permutation to the array. For example, given the array ['a', 'b', 'c'] and the permutation [2, 1, 0], return ['c', 'b', 'a'].```";
 
   public static final String p88 = "```unavailable```";
 
