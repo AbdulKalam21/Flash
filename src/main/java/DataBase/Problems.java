@@ -368,7 +368,7 @@ public class Problems {
   public static final String p87 = "```A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation. For example, [2, 1, 0] represents the permutation where elements at the index 0 and 2 are swapped.\n\n"+
                                    "Given an array and a permutation, apply the permutation to the array. For example, given the array ['a', 'b', 'c'] and the permutation [2, 1, 0], return ['c', 'b', 'a'].```";
 
-  public static final String p88 = "```unavailable```";
+  public static final String p88 = "```Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place.```";
 
   public static final String p89 = "```unavailable```";
 
