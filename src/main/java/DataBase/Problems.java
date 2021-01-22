@@ -370,9 +370,11 @@ public class Problems {
 
   public static final String p88 = "```Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place.```";
 
-  public static final String p89 = "```unavailable```";
+  public static final String p89 = "```Spreadsheets often use this alphabetical encoding for its columns: 'A', 'B', 'C', ..., 'AA', 'AB', ..., 'ZZ', 'AAA', 'AAB', ....\n\n"+
+                                   "Given a column number, return its alphabetical column id. For example, given 1, return 'A'. Given 27, return 'AA'.```";
 
-  public static final String p90 = "```unavailable```";
+  public static final String p90 = "```The ancient Egyptians used to express fractions as a sum of several terms where each numerator is one. For example, 4 / 13 can be represented as 1 / 4 + 1 / 18 + 1 / 468.\n\n"+
+                                   "Create an algorithm to turn an ordinary fraction a / b, where a < b, into an Egyptian fraction.```";
 
   public static final String p91 = "```unavailable```";
 
