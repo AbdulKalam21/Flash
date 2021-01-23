@@ -376,7 +376,8 @@ public class Problems {
   public static final String p90 = "```The ancient Egyptians used to express fractions as a sum of several terms where each numerator is one. For example, 4 / 13 can be represented as 1 / 4 + 1 / 18 + 1 / 468.\n\n"+
                                    "Create an algorithm to turn an ordinary fraction a / b, where a < b, into an Egyptian fraction.```";
 
-  public static final String p91 = "```unavailable```";
+  public static final String p91 = "```Given a linked list, sort it in O(n log n) time and constant space.\n\n"+
+                                   "For example, the linked list 4 -> 1 -> -3 -> 99 should become -3 -> 1 -> 4 -> 99.```";
 
   public static final String p92 = "```unavailable```";
 
