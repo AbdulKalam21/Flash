@@ -379,7 +379,8 @@ public class Problems {
   public static final String p91 = "```Given a linked list, sort it in O(n log n) time and constant space.\n\n"+
                                    "For example, the linked list 4 -> 1 -> -3 -> 99 should become -3 -> 1 -> 4 -> 99.```";
 
-  public static final String p92 = "```unavailable```";
+  public static final String p92 = "```Given a string of parentheses, find the balanced string that can be produced from it using the minimum number of insertions and deletions. If there are multiple solutions, return any of them.\n\n"+
+                                   "For example, given '(()', you could return '(())'. Given ''))()(', you could return '()()()()'.```";
 
   public static final String p93 = "```unavailable```";
 
