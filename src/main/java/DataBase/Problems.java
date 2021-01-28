@@ -392,7 +392,8 @@ public class Problems {
 
   public static final String p94 = "```Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?```";
 
-  public static final String p95 = "```unavailable```";
+  public static final String p95 = "```Given an integer n, return the length of the longest consecutive run of 1s in its binary representation.\n\n"+
+                                   "For example, given 156, you should return 3.```";
 
   public static final String p96 = "```unavailable```";
 
