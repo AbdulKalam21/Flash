@@ -382,9 +382,15 @@ public class Problems {
   public static final String p92 = "```Given a string of parentheses, find the balanced string that can be produced from it using the minimum number of insertions and deletions. If there are multiple solutions, return any of them.\n\n"+
                                    "For example, given '(()', you could return '(())'. Given ''))()(', you could return '()()()()'.```";
 
-  public static final String p93 = "```unavailable```";
+  public static final String p93 = "```Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array.\n\n"+
+                                   "For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:\n\n"+
+                                   "There is 1 smaller element to the right of 3\n"+
+                                   "There is 1 smaller element to the right of 4\n"+
+                                   "There are 2 smaller elements to the right of 9\n"+
+                                   "There is 1 smaller element to the right of 6\n"+
+                                   "There are no smaller elements to the right of 1```";
 
-  public static final String p94 = "```unavailable```";
+  public static final String p94 = "```Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?```";
 
   public static final String p95 = "```unavailable```";
 
