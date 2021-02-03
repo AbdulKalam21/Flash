@@ -395,13 +395,18 @@ public class Problems {
   public static final String p95 = "```Given an integer n, return the length of the longest consecutive run of 1s in its binary representation.\n\n"+
                                    "For example, given 156, you should return 3.```";
 
-  public static final String p96 = "```unavailable```";
+  public static final String p96 = "```Given a list of numbers L, implement a method sum(i, j) which returns the sum from the sublist L[i:j] (including i, excluding j).\n\n"+
+                                   "For example, given L = [1, 2, 3, 4, 5], sum(1, 3) should return sum([2, 3]), which is 5.\n\n"+
+                                   "You can assume that you can do some pre-processing. sum() should be optimized over the pre-processing step.```";
 
-  public static final String p97 = "```unavailable```";
+  public static final String p97 = "```Given a string s and a list of words words, where each word is the same length, find all starting indices of substrings in s that is a concatenation of every word in words exactly once.\n\n"+
+                                   "For example, given s = 'dogcatcatcodecatdog' and words = ['cat', 'dog'], return [0, 13], since 'dogcat' starts at index 0 and 'catdog' starts at index 13.\n\n"+
+                                   "Given s = 'barfoobazbitbyte' and words = ['dog', 'cat'], return since there are no substrings composed of 'dog' and 'cat' in s.\n\n"+
+                                   "The order of the indices does not matter.```\n\n";
 
-  public static final String p98 = "```unavailable```";
+  public static final String p98 = "```Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.```";
 
-  public static final String p99 = "```unavailable```";
+  public static final String p99 = "```Write a program that computes the length of the longest common subsequence of three given strings. For example, given 'epidemiologist', 'refrigeration', and 'supercalifragilisticexpialodocious', it should return 5, since the longest common subsequence is 'eieio'.```";
 
-  public static final String p100 = "```unavailable```";
+  public static final String p100 = "```Given an array of integers out of order, determine the bounds of the smallest window that must be sorted in order for the entire array to be sorted. For example, given [3, 7, 5, 6, 9], you should return (1, 3).```";
 }
