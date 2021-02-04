@@ -354,7 +354,8 @@ public class Problems {
 
   public static final String p82 = "```Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.```";
 
-  public static final String p83 = "```unavailable```";
+  public static final String p83 = "```Given an array of numbers representing the stock prices of a company in chronological order and an integer k, return the maximum profit you can make from k buys and sells. You must buy the stock before you can sell it, and you must sell the stock before you can buy it again.\n\n"+
+                                   "For example, given k = 2 and the array [5, 2, 4, 0, 1], you should return 3.```";
 
   public static final String p84 = "```Let X be a set of n intervals on the real line. We say that a set of points P 'stabs' X if every interval in X contains at least one point in P. Compute the smallest set of points that stabs X.\n\n"+
                                    "For example, given the intervals [(1, 4), (4, 5), (7, 9), (9, 12)], you should return [4, 9].```";
